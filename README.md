@@ -3,6 +3,7 @@
 - 👀 Eu estou interessado em aprender novas progrmações...
 - 🌱 Meu e-mail para contato é reinaldo.correa@escola.pr.gov.br
 
+- Opção 1: [Alura] (https://www.alura.com.br)
 
 <!---
 professorCorrea/professorCorrea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
